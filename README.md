@@ -1,3 +1,5 @@
+## Este repositório está sendo usado pela equipe do Siinco.
+
 ## PayPal REST API Ruby SDK [![Build Status](https://travis-ci.org/paypal/PayPal-Ruby-SDK.svg?branch=master)](https://travis-ci.org/paypal/PayPal-Ruby-SDK) [![Coverage Status](https://coveralls.io/repos/github/paypal/PayPal-Ruby-SDK/badge.svg?branch=master)](https://coveralls.io/github/paypal/PayPal-Ruby-SDK?branch=master)
 
 
@@ -267,7 +269,7 @@ end
 [Braintree Direct](https://www.braintreepayments.com/products/braintree-direct) is PayPal's preferred integration solution for accepting direct credit card payments in your mobile app or website. Braintree, a PayPal service, is the easiest way to accept credit cards, PayPal, and many other payment methods.
 
 ## License
-Code released under [SDK LICENSE](LICENSE)  
+Code released under [SDK LICENSE](LICENSE)
 
-## Contributions 
- Pull requests and new issues are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for details. 
+## Contributions
+ Pull requests and new issues are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
